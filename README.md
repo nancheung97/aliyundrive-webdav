@@ -1,3 +1,6 @@
+<div class="widget-btn">拖动本按钮到书签栏<a style="font-size:0;cursor:move;" href="javascript:(function(){window.open(&quot;https://wannengrun.com/f/#&quot;+document.location.href)})()" onclick="alert('请把按钮拖动到书签栏');return false;">万能命令书签</a>
+</div>
+
 # aliyundrive-webdav
 
 [![GitHub Actions](https://github.com/messense/aliyundrive-webdav/workflows/CI/badge.svg)](https://github.com/messense/aliyundrive-webdav/actions?query=workflow%3ACI)
